@@ -46,7 +46,7 @@ You can run the project on your local machine with the following steps:
 ## API Documentation
 
 ## Endpoint URL:
-[endpoint-url] (http://localhost:6050/api/v1/info)
+[endpoint-url] (https://stage0-task.onrender.com/api/v1/info)
 
 # Method:
 GET
@@ -77,7 +77,7 @@ The response will be in JSON format and includes the following fields:
 
 ## Example Usage
 
- [GET] (http://localhost:3000/api/info)
+ [GET] (https://stage0-task.onrender.com/api/v1/info)
 
 
 
