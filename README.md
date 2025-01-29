@@ -23,7 +23,7 @@ You can run the project on your local machine with the following steps:
 
 3 Clone the repo by entering this command in your current directory
 
-# git clone https://github.com/username/repository_name.git
+# git clone https://github.com/benjamin2orie/Stage0-task
 
 
 4 Enter this command to open the Vs code
@@ -70,7 +70,7 @@ The response will be in JSON format and includes the following fields:
 {
   "email": "ogechukwu@gmail.com",
   "current_datetime": "2025-01-29T10:32:22.028Z",
-  "github_url": "https://github.com/benjmain2orie/project"
+  "github_url": "https://github.com/benjamin2orie/Stage0-task"
 }
 
 
@@ -82,6 +82,8 @@ The response will be in JSON format and includes the following fields:
 
 
  ## Backlink
+
+ Looking to hire Skilled developers? Checkout here!
 
  [JavaScript](https://hng.tech/hire/nodejs-developers)
 
